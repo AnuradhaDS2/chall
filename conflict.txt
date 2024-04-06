@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is conflict
+=======
+this is not conflict
+>>>>>>> 4a05ffba710f40d578ec13cf1c8645deb7c5b886
